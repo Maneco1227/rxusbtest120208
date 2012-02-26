@@ -1,0 +1,3 @@
+This project is for Renesas RX621/62N MCU USB function test.
+The device works as USB CDC Peripheral as same as Renesas's demo project. 
+And *.inf file also same.
