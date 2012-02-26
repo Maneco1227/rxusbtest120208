@@ -282,6 +282,7 @@ void HandleBRDY(void)
 		//
 		// Echo back. 
 		//
+		
 		p_pipe2Buf = "RX62 USB. ";
 		pipe2BufCnt = 10;
 		

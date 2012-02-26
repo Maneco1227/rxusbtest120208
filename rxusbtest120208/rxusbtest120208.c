@@ -286,7 +286,7 @@ void usbPipeSetup(void)
 		/*Default */
 		USB0.PIPECFG.WORD = 0;
 		/*Endpoint*/
-		USB0.PIPECFG.BIT.EPNUM = 6;
+		USB0.PIPECFG.BIT.EPNUM = 3;
 		/*Direction*/
 		USB0.PIPECFG.BIT.DIR = 1;
 		/*Double Buffer */
