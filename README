@@ -1,3 +1,15 @@
 This project is for Renesas RX621/62N MCU USB function test.
-The device works as USB CDC Peripheral as same as Renesas's demo project. 
-And *.inf file also same.
+The device works as USB CDC Peripheral same as Renesas's demo project. 
+And *.inf file is also same.
+
+Now, the project has a problem(Bug).
+
+The device is recognized as USB CDC device. We can control from terminal software.
+When you press a key on the terminal, the device responds 'RX62 USB.'.
+But after that, USB FIFO operation doesn't work well.
+
+It's a reason why I upload the project and I need your help.
+
+Thank you for your reading this.
+
+Maneco1227.
