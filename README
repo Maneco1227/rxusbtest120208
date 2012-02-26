@@ -4,12 +4,12 @@ And *.inf file is also same.
 
 Now, the project has a problem(Bug).
 
-The device is recognized as USB CDC device. We can control from terminal software.
+The device is recognized as a USB CDC device. We can control from terminal softwares.
 When you press a key on the terminal, the device responds 'RX62 USB.'.
 But after that, USB FIFO operation doesn't work well.
 
 It's a reason why I upload the project and I need your help.
 
-Thank you for your reading this.
+Thank you for your reading this text.
 
 Maneco1227.
